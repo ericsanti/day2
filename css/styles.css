@@ -59,4 +59,6 @@ body {
   .content:nth-child(even) {
     text-align: end;
   }
-  
+.cls-1 {
+    fill:rgb(255, 0, 0) !important;
+}  
